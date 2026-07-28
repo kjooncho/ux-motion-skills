@@ -4,7 +4,7 @@
 
 [![skills.sh](https://skills.sh/b/kjooncho/ux-motion-skills)](https://skills.sh/kjooncho/ux-motion-skills)
 
-**11년 실무 UX 모션 작업에서 증류한, Claude Code용 모션·디자인 판단 스킬.**
+**18년 경력 중 최근 11년의 실무 UX 모션 작업에서 증류한, Claude Code용 모션·디자인 판단 스킬.**
 
 대부분의 디자인 스킬은 에이전트에게 *무엇을 만들지*를 알려줍니다. 이 스킬들은 *어떻게 결정할지*를 알려줍니다 — 값·임계치·트레이드오프가 실제 프로덕션 아카이브에서 역산됐습니다: **프로젝트 235개, duration 표본 51,271건, 베지어 커브 61,422건**, 채택 인터뷰 12라운드. 모든 원칙은 반례 검증을 통과한 것만 남겼고, 기각된 것은 싣지 않았습니다.
 
@@ -52,7 +52,7 @@ cp -r ux-motion-skills/skills/motion-judgment ~/.claude/skills/
 
 ## 저자
 
-**조경준 (Kyoungjoon Cho)** — UX 모션 디자이너, 프로덕션 모션/인터랙션 디자인 11년차. GitHub [@kjooncho](https://github.com/kjooncho).
+**조경준 (Kyoungjoon Cho)** — UX 모션 디자이너 — 경력 18년, 최근 11년은 프로덕션 모션/인터랙션 디자인. GitHub [@kjooncho](https://github.com/kjooncho).
 
 ## 라이선스
 

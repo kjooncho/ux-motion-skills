@@ -4,7 +4,7 @@
 
 [![skills.sh](https://skills.sh/b/kjooncho/ux-motion-skills)](https://skills.sh/kjooncho/ux-motion-skills)
 
-**11年のUXモーション実務から蒸留した、Claude Code向けモーション&デザイン判断スキル。**
+**18年のキャリアのうち直近11年のUXモーション実務から蒸留した、Claude Code向けモーション&デザイン判断スキル。**
 
 多くのデザインスキルはエージェントに*何を作るか*を教えます。このスキルは*どう決めるか*を教えます — 値・しきい値・トレードオフは、実際のプロダクションアーカイブから逆算されたものです: **プロジェクト235件、duration サンプル51,271件、ベジェカーブ61,422件**、採用インタビュー12ラウンド。すべての原則は反例検証を通過したものだけを残し、棄却されたものは載せていません。
 
@@ -52,7 +52,7 @@ cp -r ux-motion-skills/skills/motion-judgment ~/.claude/skills/
 
 ## 作者
 
-**チョ・ギョンジュン (Kyoungjoon Cho / 조경준)** — UXモーションデザイナー、プロダクションモーション/インタラクションデザイン11年。GitHub [@kjooncho](https://github.com/kjooncho)。
+**チョ・ギョンジュン (Kyoungjoon Cho / 조경준)** — UXモーションデザイナー — キャリア18年、直近11年はプロダクションモーション/インタラクションデザイン。GitHub [@kjooncho](https://github.com/kjooncho)。
 
 ## ライセンス
 

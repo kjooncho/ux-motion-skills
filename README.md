@@ -4,7 +4,7 @@
 
 [![skills.sh](https://skills.sh/b/kjooncho/ux-motion-skills)](https://skills.sh/kjooncho/ux-motion-skills)
 
-**Motion & design judgment skills for Claude Code, distilled from 11 years of production UX motion work.**
+**Motion & design judgment skills for Claude Code, distilled from the past 11 years of production UX motion work, in an 18-year design career.**
 
 Most design skills tell an agent *what to make*. These skills tell it *how to decide* — the values, thresholds, and trade-offs are back-derived from a real production archive: **235 projects, 51,271 duration samples, 61,422 bezier curves**, and 12 rounds of adoption interviews. Every principle survived counter-example review; rejected ones were kept out.
 
@@ -52,7 +52,7 @@ These skills are compiled from a private decision log that records, per principl
 
 ## Author
 
-**Kyoungjoon Cho (조경준)** — UX motion designer, 11 years in production motion/interaction design. GitHub [@kjooncho](https://github.com/kjooncho).
+**Kyoungjoon Cho (조경준)** — UX motion designer — 18 years in design, the past 11 in production motion/interaction design. GitHub [@kjooncho](https://github.com/kjooncho).
 
 ## License
 
