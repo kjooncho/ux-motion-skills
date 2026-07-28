@@ -1,5 +1,7 @@
 # ux-motion-skills
 
+**English** | [한국어](./README.ko.md) | [日本語](./README.ja.md)
+
 [![skills.sh](https://skills.sh/b/kjooncho/ux-motion-skills)](https://skills.sh/kjooncho/ux-motion-skills)
 
 **Motion & design judgment skills for Claude Code, distilled from 11 years of production UX motion work.**
@@ -19,7 +21,7 @@ Most design skills tell an agent *what to make*. These skills tell it *how to de
 | [`ai-slop-detector`](./skills/ai-slop-detector) | Detects "AI-average" visual signals in a UI and suggests differentiation | Your interface looks like everyone else's AI output |
 | [`concept-gate`](./skills/concept-gate) | Problem-fit critique for an idea or design.md before you build | Before committing to building anything |
 
-**Language note:** skill instructions are written in Korean. Claude reads them natively and applies them in whatever language your conversation uses — the numbers and principles carry over unchanged. English editions may follow.
+**Language note:** skill bodies are written in Korean, which is the **canonical** language of this repo — README translations are best-effort mirrors. Claude reads Korean natively and applies the skills in whatever language your conversation uses; every skill's trigger description includes English and Japanese phrases, so activation works in all three languages. Full skill-body translations may follow if there's demand ([open an issue](https://github.com/kjooncho/ux-motion-skills/issues)).
 
 ## Install
 

@@ -1,6 +1,6 @@
 ---
 name: design-critique
-description: 스크린샷 또는 디자인을 받아 Nielsen 휴리스틱 10원칙 기반 비평을 한다. 심각도별 분류.
+description: 스크린샷 또는 디자인을 받아 Nielsen 휴리스틱 10원칙 기반 비평을 한다. 심각도별 분류. Trigger in any language — e.g. "critique this design", "heuristic review of this screenshot", "このデザインを批評して", "ヒューリスティック評価して".
 ---
 
 # Design Critique

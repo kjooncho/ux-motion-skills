@@ -1,6 +1,6 @@
 ---
 name: concept-gate
-description: 아이디어 또는 design.md를 받아 문제 적합성과 빠진 사용자를 비평한다. 만들기 전 검증 게이트.
+description: 아이디어 또는 design.md를 받아 문제 적합성과 빠진 사용자를 비평한다. 만들기 전 검증 게이트. Trigger in any language — e.g. "is this idea worth building?", "critique my concept before I build", "このアイデア、作る価値ある?", "コンセプト検証して".
 ---
 
 # Concept Gate

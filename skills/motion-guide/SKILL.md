@@ -8,7 +8,7 @@ description: >
   "인터랙션 가이드 만들어줘", "개발팀에 넘길 모션 스펙 정리해줘",
   "애니메이션 스펙 문서화해줘", "Lottie 명세 작성해줘",
   "motion-guide", "/motion-guide" —
-  디자인이 완료되고 개발 핸드오프 준비가 필요한 모든 맥락에서 활성화한다.
+  디자인이 완료되고 개발 핸드오프 준비가 필요한 모든 맥락에서 활성화한다. Trigger in any language — e.g. "create an interaction guide", "document motion specs for developers", "Lottie spec", "インタラクションガイド作って", "開発チーム向けモーション仕様をまとめて".
 user-invocable: true
 metadata:
   author: Kyoungjoon Cho (kjooncho)

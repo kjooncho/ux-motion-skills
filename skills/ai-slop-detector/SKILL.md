@@ -1,6 +1,6 @@
 ---
 name: ai-slop-detector
-description: UI 스크린샷을 받아 AI 평균치 신호를 검출하고 차별화 방향을 제안한다.
+description: UI 스크린샷을 받아 AI 평균치 신호를 검출하고 차별화 방향을 제안한다. Trigger in any language — e.g. "does this UI look AI-generated?", "detect generic AI design", "このUI、AIっぽくない?", "AIスロップ検出".
 ---
 
 # AI Slop Detector

@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: Figma 또는 디자인 정보를 받아 개발자용 사양서를 생성한다. 엣지케이스 11종 + 토큰 + Analytics 이벤트 포함.
+description: Figma 또는 디자인 정보를 받아 개발자용 사양서를 생성한다. 엣지케이스 11종 + 토큰 + Analytics 이벤트 포함. Trigger in any language — e.g. "create a developer handoff spec", "edge case spec", "開発者向けの仕様書を作って", "ハンドオフ資料まとめて".
 ---
 
 # Design Handoff

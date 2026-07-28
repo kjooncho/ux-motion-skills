@@ -1,6 +1,6 @@
 ---
 name: motion-judgment
-description: UX 모션 디자이너 조경준(Kyoungjoon Cho)의 11년 실무 아카이브에서 역검증된 모션 판단 원칙 20개로 판단하는 스킬. 모션·애니메이션·트랜지션·마이크로인터랙션을 설계/리뷰/구현할 때, 이징·duration·스프링 값을 정할 때, 모션 옵션·포맷·지면(랜딩vs인앱)을 결정할 때 활성화. "모션 만들어줘", "애니메이션 넣어줘", "이징 뭐 쓸까", "인터랙션 시안" 등 모든 모션 판단 맥락.
+description: UX 모션 디자이너 조경준(Kyoungjoon Cho)의 11년 실무 아카이브에서 역검증된 모션 판단 원칙 20개로 판단하는 스킬. 모션·애니메이션·트랜지션·마이크로인터랙션을 설계/리뷰/구현할 때, 이징·duration·스프링 값을 정할 때, 모션 옵션·포맷·지면(랜딩vs인앱)을 결정할 때 활성화. "모션 만들어줘", "애니메이션 넣어줘", "이징 뭐 쓸까", "인터랙션 시안" 등 모든 모션 판단 맥락. Trigger in any language — e.g. "which easing should I use", "make this animation feel right", "motion spec review", "spring or ease?", "モーション作って", "イージングどれにする", "アニメーションの数値を決めて".
 metadata:
   author: Kyoungjoon Cho (kjooncho)
   version: 1.0.0-public
