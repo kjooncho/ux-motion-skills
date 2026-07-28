@@ -1,0 +1,14 @@
+{
+  "name": "ux-motion-skills",
+  "owner": {
+    "name": "Kyoungjoon Cho",
+    "url": "https://github.com/kjooncho"
+  },
+  "plugins": [
+    {
+      "name": "ux-motion-skills",
+      "source": "./",
+      "description": "Motion & design judgment skills distilled from 11 years of production UX motion work — motion-judgment (20 verified principles), motion-guide, handoff, design-critique, ai-slop-detector, concept-gate."
+    }
+  ]
+}
