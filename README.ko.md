@@ -52,7 +52,7 @@ cp -r ux-motion-skills/skills/motion-judgment ~/.claude/skills/
 
 ## 저자
 
-**조경준 (Kyoungjoon Cho)** — UX 모션 디자이너 — 경력 18년, 최근 11년은 프로덕션 모션/인터랙션 디자인. GitHub [@kjooncho](https://github.com/kjooncho).
+**조경준 (Kyoungjoon Cho)** — UX 모션/인터랙션 디자이너, 경력 18년. GitHub [@kjooncho](https://github.com/kjooncho).
 
 ## 라이선스
 

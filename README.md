@@ -52,7 +52,7 @@ These skills are compiled from a private decision log that records, per principl
 
 ## Author
 
-**Kyoungjoon Cho (조경준)** — UX motion designer — 18 years in design, the past 11 in production motion/interaction design. GitHub [@kjooncho](https://github.com/kjooncho).
+**Kyoungjoon Cho (조경준)** — UX motion/interaction designer with 18 years of experience. GitHub [@kjooncho](https://github.com/kjooncho).
 
 ## License
 

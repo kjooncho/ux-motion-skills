@@ -52,7 +52,7 @@ cp -r ux-motion-skills/skills/motion-judgment ~/.claude/skills/
 
 ## 作者
 
-**チョ・ギョンジュン (Kyoungjoon Cho / 조경준)** — UXモーションデザイナー — キャリア18年、直近11年はプロダクションモーション/インタラクションデザイン。GitHub [@kjooncho](https://github.com/kjooncho)。
+**チョ・ギョンジュン (Kyoungjoon Cho / 조경준)** — UXモーション/インタラクションデザイナー、キャリア18年。GitHub [@kjooncho](https://github.com/kjooncho)。
 
 ## ライセンス
 
