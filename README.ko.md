@@ -20,6 +20,7 @@
 | [`design-critique`](./skills/design-critique) | Nielsen 휴리스틱 10원칙 기반 스크린샷/디자인 비평, 심각도 분류 | 감이 아니라 구조화된 2차 의견이 필요할 때 |
 | [`ai-slop-detector`](./skills/ai-slop-detector) | UI의 "AI 평균치" 신호를 검출하고 차별화 방향 제안 | 내 화면이 남들 AI 산출물과 똑같아 보일 때 |
 | [`concept-gate`](./skills/concept-gate) | 아이디어/design.md의 문제 적합성·빠진 사용자 비평 | 무엇이든 만들기 전에 |
+| [`scroll-sequencing`](./skills/scroll-sequencing) | 스크롤 시퀀싱 레시피 — 가중치 비균등 타임라인·구간별 이징/스크럽 차등·직결/정착 이원화·히스테리시스·프로브 + 드라이버 독립 코어 스니펫 | 스크롤 스토리·스크럽 릴·three.js/R3F 씬 시퀀스 — 특히 "스크럽이 밋밋할" 때 |
 
 **언어 안내:** 스킬 본문은 한국어이며, 이 리포의 **정본(canonical)** 언어입니다 — README 번역본은 최선 노력 미러입니다. Claude는 한국어 스킬을 그대로 읽고 대화 언어가 무엇이든 적용하며, 모든 스킬의 트리거 설명에 영어·일본어 문구가 포함되어 3개 언어 모두에서 활성화됩니다. 스킬 본문 번역은 수요가 있으면 진행합니다([이슈로 요청](https://github.com/kjooncho/ux-motion-skills/issues)).
 

@@ -20,6 +20,7 @@ Most design skills tell an agent *what to make*. These skills tell it *how to de
 | [`design-critique`](./skills/design-critique) | Heuristic critique of screenshots/designs against Nielsen's 10 principles, sorted by severity | You want a structured second opinion, not vibes |
 | [`ai-slop-detector`](./skills/ai-slop-detector) | Detects "AI-average" visual signals in a UI and suggests differentiation | Your interface looks like everyone else's AI output |
 | [`concept-gate`](./skills/concept-gate) | Problem-fit critique for an idea or design.md before you build | Before committing to building anything |
+| [`scroll-sequencing`](./skills/scroll-sequencing) | Scroll-driven sequencing recipe — weighted non-uniform timeline, per-segment easing/scrub, scroll-locked vs settled axes, hysteresis swap, built-in probe; ships a driver-agnostic core snippet | Scroll stories, scrubbed reels, three.js/R3F scene sequences — especially when the scrub "feels floaty" |
 
 **Language note:** skill bodies are written in Korean, which is the **canonical** language of this repo — README translations are best-effort mirrors. Claude reads Korean natively and applies the skills in whatever language your conversation uses; every skill's trigger description includes English and Japanese phrases, so activation works in all three languages. Full skill-body translations may follow if there's demand ([open an issue](https://github.com/kjooncho/ux-motion-skills/issues)).
 

@@ -20,6 +20,7 @@
 | [`design-critique`](./skills/design-critique) | Nielsenヒューリスティック10原則によるデザイン批評、深刻度分類 | 感覚ではなく構造化されたセカンドオピニオンが欲しいとき |
 | [`ai-slop-detector`](./skills/ai-slop-detector) | UIの「AI平均値」シグナルを検出し差別化方向を提案 | 自分の画面が他のAI出力と同じに見えるとき |
 | [`concept-gate`](./skills/concept-gate) | アイデア/design.mdの課題適合性・見落としユーザーを批評 | 何かを作り始める前に |
+| [`scroll-sequencing`](./skills/scroll-sequencing) | スクロールシーケンシングのレシピ — 非均等ウェイトタイムライン・区間別イージング/スクラブ・直結/整定の二軸化・ヒステリシス・プローブ + ドライバー非依存コアスニペット | スクロールストーリー・スクラブリール・three.js/R3Fシーンシーケンス — 特に「スクラブが物足りない」とき |
 
 **言語について:** スキル本文は韓国語で書かれており、このリポジトリの**正本(canonical)**言語です — README翻訳はベストエフォートのミラーです。Claudeは韓国語スキルをそのまま読み、会話がどの言語でも適用します。各スキルのトリガー説明には英語・日本語のフレーズが含まれているため、3言語すべてで発動します。スキル本文の翻訳は需要があれば進めます([Issueでリクエスト](https://github.com/kjooncho/ux-motion-skills/issues))。
 
